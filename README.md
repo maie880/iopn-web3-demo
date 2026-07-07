@@ -1,2 +1,8 @@
-# iopn-web3-demo
-Web3 smart contract demo for IOPn verification
+# IOPn Web3 Demo
+
+This repository contains a simple Solidity smart contract example.
+
+Technology:
+- Blockchain
+- Solidity
+- Web3
